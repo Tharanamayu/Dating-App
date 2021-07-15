@@ -50,3 +50,8 @@ D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite
 D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\Humanizer.dll
+D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
