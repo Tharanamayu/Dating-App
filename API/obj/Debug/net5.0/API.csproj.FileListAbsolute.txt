@@ -55,3 +55,7 @@ D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.De
 D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
