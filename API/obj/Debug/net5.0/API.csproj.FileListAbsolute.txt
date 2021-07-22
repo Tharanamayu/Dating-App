@@ -62,3 +62,4 @@ D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.
 D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\Data\UserSeedData.json
