@@ -63,3 +63,5 @@ D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authenticat
 D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\Data\UserSeedData.json
+D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\AutoMapper.dll
+D:\Projects\GIT\Dating-App\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
